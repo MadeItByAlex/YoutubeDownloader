@@ -13,7 +13,7 @@ ydl_opts = {
     'external_downloader_args': ['-x', '16', '-k', '1M'], 
      'postprocessors': [{
         'key': 'FFmpegVideoConvertor',
-        'preferedformat': 'mp4',  # Convert video to mp4 format
+        'preferedformat': 'mp4',  
     }] ,
     'outtmpl': os.path.join(desktop_path,'%(title)s.%(ext)s'),
 }
