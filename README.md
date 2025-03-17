@@ -1,10 +1,10 @@
-#🚀 YouTubeDownloader
+# 🚀 YouTubeDownloader
 
-📌 Description
+## 📌 Description
 
 YouTubeDownloader is a Python application that allows you to download YouTube videos in the highest possible quality, limited to 1080p.
 
-✅ Requirements
+## ✅ Requirements
 
 To use this application, you need to:
 
@@ -14,7 +14,7 @@ To use this application, you need to:
 
 🎬 Have FFmpeg installed and added to the system PATH in Windows environment variables.
 
-🎯 How to Use
+## 🎯 How to Use
 
 Open a command prompt (cmd).
 
