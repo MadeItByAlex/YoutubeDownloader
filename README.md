@@ -24,12 +24,12 @@ Run the script using the following command:
 
 ```bash
 python youtubeDownloader.py
-
+```
 or
 
 ```bash
-
 python3 youtubeDownloader.py
+```
 
 The program will prompt you to paste the YouTube video URL you want to download.
 
