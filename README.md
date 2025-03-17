@@ -22,9 +22,12 @@ Navigate to the directory where the .py file is located using the cd command.
 
 Run the script using the following command:
 
+```bash
 python youtubeDownloader.py
 
 or
+
+```bash
 
 python3 youtubeDownloader.py
 
